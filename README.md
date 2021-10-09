@@ -12,3 +12,4 @@ Please note:
 
 ![Schematic](Schematic_Input Selector_2021-10-09.png)
 
+PCB Project page: https://www.pcbway.com/project/shareproject/Input_Selector.html
