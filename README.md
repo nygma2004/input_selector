@@ -11,3 +11,4 @@ Please note:
 - In the schematics, I included 2.2K resistor for the LED, but actually for the LED I picked (random LED from my parts bin), I ended up using a 5K resistor.
 
 ![Schematic](Schematic_Input Selector_2021-10-09.png)
+
