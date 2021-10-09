@@ -1,5 +1,5 @@
 # DC Input Selector
-I am using this board to pre-select power supply for me garden layout. I primarily use Marklin Digital, but sometimes I also have guest trains running on DC power, also external digital station. One of the 5 inputs will be reouted to the output connection.
+I am using this board to pre-select power supply for me garden layout. I primarily use Marklin Digital, but sometimes I also have guest trains running on DC power, also external digital station. One of the 5 inputs will be reouted to the output connection. I have created this board so safely switch up to 10A power to the rails. The rotary selector switches I was able to find in the shops were all rated just for 1-2A.
 
 ![Front](20211009_122202.jpg)
 
